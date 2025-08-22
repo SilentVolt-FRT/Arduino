@@ -43,7 +43,7 @@ Servo scans in 180 degrees and has alert system.
 Displays detected objects and their distance in radar format.
 
 
-⚡ Vol 0.7 – steppermotor_28byj-48_aug22_vol0.7.ino OR steppermotor_28byj-48_2ndversion_aug22_vol0.7.ino
+⚡ Vol 0.7 – steppermotor_28byj-48_aug22_vol0.7.ino   OR   steppermotor_28byj-48_2ndversion_aug22_vol0.7.ino
 
 Experiments with Stepper Motor (28BYJ-48).
 
